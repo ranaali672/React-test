@@ -1,0 +1,5 @@
+.nav-link:hover{
+    background-color: aqua;
+    border-radius: 10px;
+    border: none;
+}
